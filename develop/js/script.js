@@ -105,7 +105,7 @@ $(document).ready(function () {
     index++;
   });
 
-  //saves entry to local storafge on click
+  //saves entry to local storage on click
   $(".saveBtn").click(function () {
     let savedEntry = $(this).siblings("textarea").val();
     let entryInput = $(this).parent().attr("value");
