@@ -28,5 +28,5 @@ THEN the saved events persist
 ## Website URL
 https://ryanueva.github.io/05-Work-Day-Scheduler/
 
-## Screnshot 
+## Screenshot 
 ![Alt text](assets/Work-Day-Scheduler-Screenshot.png)
